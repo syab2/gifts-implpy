@@ -1,0 +1,1 @@
+import{g as e,S as r}from"./vendor-663f3e91.js";e.registerPlugin(r);const t=e.timeline({scrollTrigger:{trigger:".stages",start:"top bottom",end:"center center",scrub:!0}});t.to(".stages-item--second",{xPercent:85,ease:"power1.out"},1);t.to(".stages-item--third",{xPercent:170,ease:"power1.out"},1);
